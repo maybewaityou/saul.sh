@@ -2,5 +2,6 @@
 
 echo "开始安装"
 echo "===================="
-cp ./saul* ./test/saul
+
+mv ./saul* ./test/
 echo "安装完成"
